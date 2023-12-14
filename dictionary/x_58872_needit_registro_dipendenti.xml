@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fef244f20756b5100ed9f1e08c1ed072" label="Registro dipendenti" max_length="40" name="x_58872_needit_registro_dipendenti" type="collection">
+        <element label="COD DIP" mandatory="true" max_length="6" name="cod_dip" type="string"/>
+        <element label="COD UFF" mandatory="true" max_length="6" name="cod_uff" type="string"/>
+        <element label="COGNOME" mandatory="true" max_length="15" name="cognome" type="string"/>
+        <element label="INIZIALI" mandatory="true" max_length="2" name="iniziali" type="string"/>
+        <element label="LIVELLO ISTRUZIONE" mandatory="true" max_length="10" name="livello_istruzione" type="string"/>
+        <element label="NOME" mandatory="true" max_length="10" name="nome" type="string"/>
+        <element label="NUM TELEFONO INTERNO" mandatory="true" max_length="10" name="num_telefono_interno" type="string"/>
+        <element label="RUOLO" mandatory="true" max_length="10" name="ruolo" type="string"/>
+        <element choice="1" label="SESSO" mandatory="true" max_length="1" name="sesso" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

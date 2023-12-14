@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d3b7f7e60716b5100ed9f1e08c1ed032" label="Tabella anagrafica 2" max_length="40" name="x_58872_needit_tabella_anagrafica_2" type="collection">
+        <element label="CITTA" mandatory="true" max_length="10" name="citta" type="string"/>
+        <element label="COGNOME" mandatory="true" max_length="15" name="cognome" type="string"/>
+        <element label="NOME" mandatory="true" max_length="10" name="nome" type="string"/>
+        <element label="TELEFONO" mandatory="true" max_length="10" name="telefono" type="string"/>
+    </element>
+</database>

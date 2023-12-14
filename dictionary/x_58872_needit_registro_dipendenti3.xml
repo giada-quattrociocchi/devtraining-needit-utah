@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="910928f607d6b5100ed9f1e08c1ed010" extends="sys_import_set_row" label="Registro dipendenti3" max_length="40" name="x_58872_needit_registro_dipendenti3" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COD DIP" label="COD DIP" max_length="40" name="u_cod_dip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COD UFF" label="COD UFF" max_length="40" name="u_cod_uff" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COGNOME" label="COGNOME" max_length="40" name="u_cognome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=INIZIALI" label="INIZIALI" max_length="40" name="u_iniziali" type="string"/>
+        <element attributes="import_attribute_name=LIVELLO ISTRUZIONE" label="LIVELLO ISTRUZIONE" max_length="40" name="u_livello_istruzione" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NOME" label="NOME" max_length="40" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NUM TEL INTERNO" label="NUM TEL INTERNO" max_length="40" name="u_num_tel_interno" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RUOLO" label="RUOLO" max_length="40" name="u_ruolo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SESSO" label="SESSO" max_length="40" name="u_sesso" type="string"/>
+    </element>
+</database>
